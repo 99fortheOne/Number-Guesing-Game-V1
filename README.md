@@ -1,4 +1,4 @@
-# 🎯 Number Guessing Game (CLI)
+# 🎯 Number Guessing Game (CLI) https://roadmap.sh/projects/number-guessing-game
 
 A simple command-line number guessing game where the player tries to guess a randomly generated number within a limited number of attempts.
 
