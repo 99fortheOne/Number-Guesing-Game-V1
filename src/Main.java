@@ -80,12 +80,10 @@ public class Main{
                 numberOfAttempts++;
                 numberOfGuesses--;
                 System.out.println("Incorrect! The number is less than " + guess + ".");
-                continue; // I don't think that this continue message is necessary.
             } else{
                 numberOfAttempts++;
                 numberOfGuesses--;
                 System.out.println("Incorrect! The number is greater than " + guess + ".");
-                continue; // I don't think that this continue message is necessary.
             }
         }
 
